@@ -1,0 +1,6 @@
+*.bak
+*.rar
+*.stl
+*.stp
+*.gcode
+*.igs
